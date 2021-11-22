@@ -1,0 +1,2 @@
+INSERT INTO person(first_name,last_name,email,age) VALUES('Peter','Schmidt','pschmidt0@aboutads.info','28');
+INSERT INTO person(first_name,last_name,email,age) VALUES('Martin','Bingel','matrtin.bingel0@gmail.com','35');
